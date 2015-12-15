@@ -1,0 +1,28 @@
+name: MichaelAugsten
+favicon: null
+layout_spectrum: 0.9342425863724202
+typography_spectrum: 0.3827719942200929
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5568370884284377
+  lightness: 0.9467600204516202
+  saturation: 0.06000671163201332
+  rhythmicContrast: 0.5993724425788969
+purpose: []
